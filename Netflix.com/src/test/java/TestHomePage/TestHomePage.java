@@ -1,4 +1,8 @@
 package TestHomePage;
 
-public class TestHomePage {
+import HomePage.HomePage;
+
+public class TestHomePage extends HomePage {
+
+
 }

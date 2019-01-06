@@ -1,6 +1,8 @@
 package base;
-
 import com.relevantcodes.extentreports.ExtentReports;
+import com.relevantcodes.extentreports.LogStatus;
+import org.apache.commons.lang3.StringUtils;
+
 import org.openqa.selenium.By;
 import org.openqa.selenium.Keys;
 import org.openqa.selenium.WebDriver;
@@ -11,12 +13,15 @@ import org.openqa.selenium.remote.DesiredCapabilities;
 import org.openqa.selenium.remote.RemoteWebDriver;
 import org.openqa.selenium.support.ui.ExpectedConditions;
 import org.openqa.selenium.support.ui.WebDriverWait;
+
 import org.testng.ITestContext;
 import org.testng.ITestResult;
 import org.testng.annotations.AfterMethod;
 import org.testng.annotations.AfterSuite;
 import org.testng.annotations.BeforeMethod;
 import org.testng.annotations.BeforeSuite;
+import reporting.ExtentManager;
+import reporting.ExtentTestManager;
 
 import java.io.PrintWriter;
 import java.io.StringWriter;
@@ -31,23 +36,21 @@ import java.util.Date;
 import java.util.List;
 import java.util.concurrent.TimeUnit;
 
-import static jdk.nashorn.internal.objects.NativeDate.getTime;
-
-public class CommonAPI {
+public class BaseUtil {
     public static WebDriver driver = null;
     public static Actions builder = null;
     public static WebDriverWait wait;
 
     @BeforeMethod
     public void setup() throws MalformedURLException {
-        System.setProperty("webdriver.chrome.driver", "C:\\Users\\orfat\\eclipse-workspace\\seleniumindividualframework\\generic\\browser-driver\\chromedriver.exe");
+        System.setProperty("webdriver.chrome.driver", "C:\\Users\\orfat\\Desktop\\GroupFrameworkTeam11\\Generic\\Driver\\chromedriver.exe");
         //setUpBrowserStack();
         driver = new ChromeDriver();
         driver.manage().deleteAllCookies();
         builder = new Actions(driver);
         wait = new WebDriverWait(driver, 10);
         driver.manage().timeouts().implicitlyWait(10, TimeUnit.SECONDS);
-        driver.get("https://www.foxnews.com/");
+        driver.get("https://www.walmart.com/");
         driver.manage().window().fullscreen();
 
 
@@ -148,13 +151,5 @@ public class CommonAPI {
         }
         return text;
     }
-
-
-
-
-
-
-
-
 
 }

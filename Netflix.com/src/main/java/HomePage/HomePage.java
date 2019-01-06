@@ -1,4 +1,7 @@
 package HomePage;
 
-public class HomePage {
+import base.BaseUtil;
+
+public class HomePage extends BaseUtil {
+
 }
