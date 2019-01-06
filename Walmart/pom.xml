@@ -11,18 +11,28 @@
 
     <artifactId>Walmart</artifactId>
 
+
     <dependencies>
+    <dependency>
+        <groupId>com.GroupFramework</groupId>
+        <artifactId>Generic</artifactId>
+        <version>1.0-SNAPSHOT</version>
+        <scope>compile</scope>
+    </dependency>
         <dependency>
-            <groupId>GroupFrameworkTeam11</groupId>
-            <artifactId>Generic</artifactId>
+            <groupId>org.seleniumhq.selenium</groupId>
+            <artifactId>selenium-support</artifactId>
+            <version>3.14.0</version>
         </dependency>
         <dependency>
-            <groupId>com.GroupFramework</groupId>
-            <artifactId>Generic</artifactId>
-            <version>1.0-SNAPSHOT</version>
-            <scope>compile</scope>
+            <groupId>org.testng</groupId>
+            <artifactId>testng</artifactId>
+            <version>6.14.3</version>
+            <scope>test</scope>
         </dependency>
     </dependencies>
+
+
 
 
 </project>

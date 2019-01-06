@@ -1,13 +1,15 @@
 package homepage;
 
-import base.CommonAPI;
+import base.BaseUtil;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
 import reporting.TestLogger;
 
-public class WelcomePage extends CommonAPI {
 
-    @FindBy (linkText = "Grocery")
+
+public class WelcomePage extends BaseUtil {
+
+    @FindBy (className = "BubbleLink-hoverLabel font-bold")
     public static WebElement goForGrocery;
 
     public void checkgoForGrocery() {

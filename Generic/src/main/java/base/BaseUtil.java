@@ -13,7 +13,6 @@ import org.openqa.selenium.remote.DesiredCapabilities;
 import org.openqa.selenium.remote.RemoteWebDriver;
 import org.openqa.selenium.support.ui.ExpectedConditions;
 import org.openqa.selenium.support.ui.WebDriverWait;
-
 import org.testng.ITestContext;
 import org.testng.ITestResult;
 import org.testng.annotations.AfterMethod;
@@ -36,9 +35,7 @@ import java.util.Date;
 import java.util.List;
 import java.util.concurrent.TimeUnit;
 
-import static jdk.nashorn.internal.objects.NativeDate.getTime;
-
-public class CommonAPI {
+public class BaseUtil {
     public static WebDriver driver = null;
     public static Actions builder = null;
     public static WebDriverWait wait;
