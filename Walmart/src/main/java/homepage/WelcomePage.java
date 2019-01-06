@@ -9,7 +9,7 @@ import reporting.TestLogger;
 
 public class WelcomePage extends BaseUtil {
 
-    @FindBy (className = "BubbleLink-hoverLabel font-bold")
+    @FindBy (xpath = "//a[@class='BubbleLink display-inline-block text-center GlobalHeaderBubblesNav-cartBubble']//div[@class='BubbleLink-wrapper']//span[@class='BubbleLink-hoverLabel font-bold']")
     public static WebElement goForGrocery;
 
     public void checkgoForGrocery() {

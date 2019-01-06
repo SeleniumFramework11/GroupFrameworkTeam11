@@ -17,6 +17,15 @@ public class TestMainPage extends WelcomePage {
         mainPage = PageFactory.initElements(driver, WelcomePage.class);
 
     }
+    @Test
+    public void testgoForGrocery() {
+        TestLogger.log(getClass().getSimpleName() + ": " + convertToString(new Object() {
+        }.getClass().getEnclosingMethod().getName()));
+        mainPage.checkgoForGrocery();
+
+    }
+
+
 
 
 
