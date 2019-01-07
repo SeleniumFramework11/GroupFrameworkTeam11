@@ -1,12 +1,12 @@
 package homePage;
 
-import base.CommonAPI;
+import base.WelcomePage;
 import org.openqa.selenium.WebElement;
 
 import org.openqa.selenium.support.FindBy;
 import reporting.TestLogger;
 
-public class MainPage extends CommonAPI {
+public class MainPage extends WelcomePage {
     @FindBy (id = "gh-btn")
     public static WebElement searchButton;
 

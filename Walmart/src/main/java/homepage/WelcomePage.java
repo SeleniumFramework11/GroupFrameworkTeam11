@@ -1,11 +1,10 @@
 package homepage;
 
-import base.CommonAPI;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
 import reporting.TestLogger;
 
-public class WelcomePage extends CommonAPI {
+public class WelcomePage extends base.WelcomePage {
 
     @FindBy (linkText = "Grocery")
     public static WebElement goForGrocery;

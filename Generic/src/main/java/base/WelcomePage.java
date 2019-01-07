@@ -38,7 +38,7 @@ import java.util.concurrent.TimeUnit;
 
 import static jdk.nashorn.internal.objects.NativeDate.getTime;
 
-public class CommonAPI {
+public class WelcomePage {
     public static WebDriver driver = null;
     public static Actions builder = null;
     public static WebDriverWait wait;
