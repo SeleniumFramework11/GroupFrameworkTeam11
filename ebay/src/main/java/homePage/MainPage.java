@@ -19,6 +19,8 @@ public class MainPage extends CommonAPI {
     @FindBy (linkText = "Deals")
     public static WebElement findDeals;
 
+    @FindBy (linkText = "Deals prodact")
+    public static WebElement findDealsprodact;
 
 
 
