@@ -6,6 +6,7 @@ import org.openqa.selenium.By;
 import org.openqa.selenium.Keys;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
+import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.interactions.Actions;
 import org.openqa.selenium.remote.DesiredCapabilities;
 import org.openqa.selenium.remote.RemoteWebDriver;
@@ -39,13 +40,14 @@ public class BaseUtil {
     public static WebDriverWait wait;
 
     @BeforeMethod
-    public void setup() throws MalformedURLException {
-        System.setProperty("webdriver.chrome.driver", "Q:\\GroupFrameworkTeam11\\Generic\\Driver\\chromedriver.exe");
+    public void setup(){
+        System.setProperty("webdriver.chrome.driver","C:/PNTNY/Selenium WebDriver/chromedriver.exe");
+        driver = new ChromeDriver();
         driver.manage().deleteAllCookies();
         builder = new Actions(driver);
         wait = new WebDriverWait(driver, 10);
         driver.manage().timeouts().implicitlyWait(10, TimeUnit.SECONDS);
-        driver.get("https://www.walmart.com/");
+        driver.get("https://www.netflix.com/");
         driver.manage().window().fullscreen();
 
 
