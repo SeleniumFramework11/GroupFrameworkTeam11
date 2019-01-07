@@ -15,6 +15,7 @@ public class WelcomePage extends BaseUtil {
     public void checkgoForGrocery() {
         TestLogger.log(getClass().getSimpleName() + ": " + convertToString(new Object(){}.getClass().getEnclosingMethod().getName()));
         goForGrocery.click();
+        goForGrocery.click();
 
     }
 }
