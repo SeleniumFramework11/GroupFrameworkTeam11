@@ -11,6 +11,7 @@
     <modules>
         <module>Generic</module>
         <module>Walmart</module>
+        <module>ebay</module>
     </modules>
 
     <dependencyManagement>
