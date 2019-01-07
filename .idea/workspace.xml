@@ -3,6 +3,9 @@
   <component name="ChangeListManager">
     <list default="true" id="d25c90c5-e730-4ecb-9c3b-2915e19bb69a" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Netflix.com/Extent-Report/ExtentReport.html" beforeDir="false" afterPath="$PROJECT_DIR$/Netflix.com/Extent-Report/ExtentReport.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Netflix.com/src/main/java/HomePage/HomePage.java" beforeDir="false" afterPath="$PROJECT_DIR$/Netflix.com/src/main/java/HomePage/HomePage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Netflix.com/src/test/java/TestHomePage/TestHomePage.java" beforeDir="false" afterPath="$PROJECT_DIR$/Netflix.com/src/test/java/TestHomePage/TestHomePage.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -21,56 +24,42 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Netflix.com/src/main/java/HomePage/HomePage.java">
+        <entry file="file://$PROJECT_DIR$/Generic/src/main/java/base/BaseUtil.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1326">
-              <caret line="78" column="43" lean-forward="true" selection-start-line="78" selection-start-column="43" selection-end-line="78" selection-end-column="43" />
+            <state relative-caret-position="-34">
+              <caret line="82" column="76" selection-start-line="82" selection-start-column="76" selection-end-line="82" selection-end-column="76" />
               <folding>
                 <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Netflix.com/src/test/java/TestHomePage/TestHomePage.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="309">
-              <caret line="20" column="22" lean-forward="true" selection-start-line="20" selection-start-column="22" selection-end-line="20" selection-end-column="22" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#593#594#0" expanded="true" />
-                <element signature="e#628#629#0" expanded="true" />
-                <element signature="e#662#663#0" expanded="true" />
-                <element signature="e#690#691#0" expanded="true" />
-                <element signature="e#730#731#0" expanded="true" />
-                <element signature="e#757#758#0" expanded="true" />
-                <element signature="e#800#801#0" expanded="true" />
-                <element signature="e#829#830#0" expanded="true" />
-                <element signature="e#870#871#0" expanded="true" />
-                <element signature="e#900#901#0" expanded="true" />
-                <element signature="e#981#982#0" expanded="true" />
-                <element signature="e#1011#1012#0" expanded="true" />
-                <element signature="e#1056#1057#0" expanded="true" />
-                <element signature="e#1086#1087#0" expanded="true" />
-                <element signature="e#1131#1132#0" expanded="true" />
-                <element signature="e#1161#1162#0" expanded="true" />
-                <element signature="e#1267#1268#0" expanded="true" />
-                <element signature="e#1310#1311#0" expanded="true" />
-                <element signature="e#1368#1369#0" expanded="true" />
-                <element signature="e#1411#1412#0" expanded="true" />
-                <element signature="e#1469#1470#0" expanded="true" />
-                <element signature="e#1512#1513#0" expanded="true" />
+                <element signature="e#3957#3958#0" expanded="true" />
+                <element signature="e#4025#4026#0" expanded="true" />
+                <element signature="e#5313#5314#0" expanded="true" />
+                <element signature="e#5347#5348#0" expanded="true" />
+                <element signature="e#5576#5588#0" expanded="true" />
+                <element signature="e#5633#5641#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Generic/src/main/java/base/BaseUtil.java">
+        <entry file="file://$PROJECT_DIR$/Netflix.com/src/test/java/TestHomePage/TestHomePage.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-255">
-              <caret line="82" column="76" lean-forward="true" selection-start-line="82" selection-start-column="76" selection-end-line="82" selection-end-column="76" />
+            <state relative-caret-position="411">
+              <caret line="95" column="5" lean-forward="true" selection-start-line="95" selection-start-column="5" selection-end-line="95" selection-end-column="5" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#2617#2618#0" expanded="true" />
+                <element signature="e#2656#2657#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Netflix.com/src/main/java/HomePage/HomePage.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="479">
+              <caret line="162" column="38" selection-start-line="162" selection-start-column="38" selection-end-line="162" selection-end-column="38" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -105,8 +94,8 @@
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/Walmart/src/test/java/testingpage/TestMainPage.java" />
         <option value="$PROJECT_DIR$/Generic/src/main/java/base/BaseUtil.java" />
-        <option value="$PROJECT_DIR$/Netflix.com/src/main/java/HomePage/HomePage.java" />
         <option value="$PROJECT_DIR$/Netflix.com/src/test/java/TestHomePage/TestHomePage.java" />
+        <option value="$PROJECT_DIR$/Netflix.com/src/main/java/HomePage/HomePage.java" />
       </list>
     </option>
   </component>
@@ -231,6 +220,11 @@
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="TestHomePage" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="GroupFrameworkTeam11" type="b2602c69:ProjectViewProjectNode" />
+              <item name="GroupFrameworkTeam11" type="462c0819:PsiDirectoryNode" />
+              <item name="Walmart" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -238,7 +232,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1546888910288" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1546897722079" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../IndividualFrameWork" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
@@ -265,7 +259,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="TestNG.TestHomePage">
+  <component name="RunManager" selected="TestNG.TestHomePage.testLanguageSelector">
     <configuration name="TestHomePage" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="Netflix.com" />
       <extension name="coverage">
@@ -282,7 +276,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestHomePage.goToFAQLink" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="TestHomePage.testDevicesButton" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="Netflix.com" />
       <extension name="coverage">
         <pattern>
@@ -292,7 +286,7 @@
       </extension>
       <option name="PACKAGE_NAME" value="TestHomePage" />
       <option name="MAIN_CLASS_NAME" value="TestHomePage.TestHomePage" />
-      <option name="METHOD_NAME" value="goToFAQLink" />
+      <option name="METHOD_NAME" value="testDevicesButton" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -300,7 +294,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestHomePage.testCorporateInformationLink" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="TestHomePage,testHelpCenter and 2 more" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Netflix.com" />
+      <option name="TEST_OBJECT" value="PATTERN" />
+      <properties />
+      <listeners />
+      <patterns>
+        <pattern testClass="TestHomePage.TestHomePage,testHelpCenter" />
+        <pattern testClass="TestHomePage.TestHomePage,testMediaCenter" />
+        <pattern testClass="TestHomePage.TestHomePage,testJobsLink" />
+      </patterns>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestHomePage.testJobsLink" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="Netflix.com" />
       <extension name="coverage">
         <pattern>
@@ -310,7 +318,7 @@
       </extension>
       <option name="PACKAGE_NAME" value="TestHomePage" />
       <option name="MAIN_CLASS_NAME" value="TestHomePage.TestHomePage" />
-      <option name="METHOD_NAME" value="testCorporateInformationLink" />
+      <option name="METHOD_NAME" value="testJobsLink" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -318,7 +326,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestHomePage.testPrivacyLink" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="TestHomePage.testLanguageSelector" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="Netflix.com" />
       <extension name="coverage">
         <pattern>
@@ -328,25 +336,7 @@
       </extension>
       <option name="PACKAGE_NAME" value="TestHomePage" />
       <option name="MAIN_CLASS_NAME" value="TestHomePage.TestHomePage" />
-      <option name="METHOD_NAME" value="testPrivacyLink" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TestHomePage.testWaysToWatchLink" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="Netflix.com" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="TestHomePage.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="TestHomePage" />
-      <option name="MAIN_CLASS_NAME" value="TestHomePage.TestHomePage" />
-      <option name="METHOD_NAME" value="testWaysToWatchLink" />
+      <option name="METHOD_NAME" value="testLanguageSelector" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -356,11 +346,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.TestHomePage.testLanguageSelector" />
         <item itemvalue="TestNG.TestHomePage" />
-        <item itemvalue="TestNG.TestHomePage.testWaysToWatchLink" />
-        <item itemvalue="TestNG.TestHomePage.testPrivacyLink" />
-        <item itemvalue="TestNG.TestHomePage.testCorporateInformationLink" />
-        <item itemvalue="TestNG.TestHomePage.goToFAQLink" />
+        <item itemvalue="TestNG.TestHomePage.testJobsLink" />
+        <item itemvalue="TestNG.TestHomePage,testHelpCenter and 2 more" />
+        <item itemvalue="TestNG.TestHomePage.testDevicesButton" />
       </list>
     </recent_temporary>
   </component>
@@ -381,41 +371,42 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="TestHomePage_devicesButton - 2019.01.07 at 12h 31m 36s.xml">
-      <configuration name="TestHomePage.devicesButton" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="TestHomePage_devicesButton - 2019.01.07 at 12h 33m 37s.xml">
-      <configuration name="TestHomePage.devicesButton" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="TestHomePage_devicesButton - 2019.01.07 at 12h 35m 35s.xml">
-      <configuration name="TestHomePage.devicesButton" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="TestHomePage_goToFAQLink - 2019.01.07 at 12h 40m 30s.xml">
-      <configuration name="TestHomePage.goToFAQLink" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="TestHomePage - 2019.01.07 at 12h 43m 21s.xml">
-      <configuration name="TestHomePage" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="TestHomePage - 2019.01.07 at 12h 52m 50s.xml">
-      <configuration name="TestHomePage" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="TestHomePage_testCorporateInformationLink - 2019.01.07 at 12h 59m 14s.xml">
-      <configuration name="TestHomePage.testCorporateInformationLink" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="TestHomePage_testPrivacyLink - 2019.01.07 at 12h 59m 37s.xml">
-      <configuration name="TestHomePage.testPrivacyLink" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="TestHomePage_testWaysToWatchLink - 2019.01.07 at 13h 00m 04s.xml">
-      <configuration name="TestHomePage.testWaysToWatchLink" configurationId="TestNG" />
-    </history-entry>
     <history-entry file="TestHomePage - 2019.01.07 at 14h 14m 05s.xml">
       <configuration name="TestHomePage" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="TestHomePage_testNetflixOriginals - 2019.01.07 at 15h 56m 01s.xml">
+      <configuration name="TestHomePage.testNetflixOriginals" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="TestHomePage_testDevicesButton - 2019.01.07 at 15h 58m 34s.xml">
+      <configuration name="TestHomePage.testDevicesButton" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="TestHomePage_testDevicesButton - 2019.01.07 at 16h 00m 17s.xml">
+      <configuration name="TestHomePage.testDevicesButton" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="TestHomePage_testDevicesButton - 2019.01.07 at 16h 01m 44s.xml">
+      <configuration name="TestHomePage.testDevicesButton" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="TestHomePage_testDevicesButton - 2019.01.07 at 16h 04m 39s.xml">
+      <configuration name="TestHomePage.testDevicesButton" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="TestHomePage,testHelpCenter_and_2_more - 2019.01.07 at 16h 11m 11s.xml">
+      <configuration name="TestHomePage,testHelpCenter and 2 more" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="TestHomePage_testJobsLink - 2019.01.07 at 16h 11m 40s.xml">
+      <configuration name="TestHomePage.testJobsLink" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="TestHomePage - 2019.01.07 at 16h 27m 51s.xml">
+      <configuration name="TestHomePage" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="TestHomePage_testLanguageSelector - 2019.01.07 at 16h 35m 31s.xml">
+      <configuration name="TestHomePage.testLanguageSelector" configurationId="TestNG" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1295" height="704" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.22014052" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22014052" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -424,37 +415,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32941177" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.08571429" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.3344538" />
-      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
-      <window_info anchor="bottom" id="Version Control" order="9" />
-      <window_info anchor="bottom" id="Messages" order="10" weight="0.3277311" />
-      <window_info anchor="bottom" id="SQL" order="11" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="right" id="Maven" order="4" weight="0.3295302" />
-      <window_info anchor="right" id="Theme Preview" order="5" />
-      <window_info anchor="right" id="Mongo Explorer" order="6" />
-      <window_info anchor="right" id="Capture Analysis" order="7" />
-      <window_info anchor="right" id="Palette&#9;" order="8" />
-    </layout>
-    <layout-to-restore>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.22014052" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Image Layers" order="2" />
-      <window_info id="Designer" order="3" />
-      <window_info id="UI Designer" order="4" />
-      <window_info id="Capture Tool" order="5" />
-      <window_info id="Favorites" order="6" side_tool="true" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.32941177" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.4857143" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.5462185" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -473,7 +434,7 @@
       <window_info anchor="right" id="Mongo Explorer" order="6" />
       <window_info anchor="right" id="Capture Analysis" order="7" />
       <window_info anchor="right" id="Palette&#9;" order="8" />
-    </layout-to-restore>
+    </layout>
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/Generic/src/main/resources/testrunner.xml" />
@@ -586,52 +547,38 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Generic/src/main/java/base/BaseUtil.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-255">
-          <caret line="82" column="76" lean-forward="true" selection-start-line="82" selection-start-column="76" selection-end-line="82" selection-end-column="76" />
+        <state relative-caret-position="-34">
+          <caret line="82" column="76" selection-start-line="82" selection-start-column="76" selection-end-line="82" selection-end-column="76" />
           <folding>
             <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Netflix.com/src/main/java/HomePage/HomePage.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1326">
-          <caret line="78" column="43" lean-forward="true" selection-start-line="78" selection-start-column="43" selection-end-line="78" selection-end-column="43" />
-          <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="e#3957#3958#0" expanded="true" />
+            <element signature="e#4025#4026#0" expanded="true" />
+            <element signature="e#5313#5314#0" expanded="true" />
+            <element signature="e#5347#5348#0" expanded="true" />
+            <element signature="e#5576#5588#0" expanded="true" />
+            <element signature="e#5633#5641#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Netflix.com/src/test/java/TestHomePage/TestHomePage.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="309">
-          <caret line="20" column="22" lean-forward="true" selection-start-line="20" selection-start-column="22" selection-end-line="20" selection-end-column="22" />
+        <state relative-caret-position="411">
+          <caret line="95" column="5" lean-forward="true" selection-start-line="95" selection-start-column="5" selection-end-line="95" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#593#594#0" expanded="true" />
-            <element signature="e#628#629#0" expanded="true" />
-            <element signature="e#662#663#0" expanded="true" />
-            <element signature="e#690#691#0" expanded="true" />
-            <element signature="e#730#731#0" expanded="true" />
-            <element signature="e#757#758#0" expanded="true" />
-            <element signature="e#800#801#0" expanded="true" />
-            <element signature="e#829#830#0" expanded="true" />
-            <element signature="e#870#871#0" expanded="true" />
-            <element signature="e#900#901#0" expanded="true" />
-            <element signature="e#981#982#0" expanded="true" />
-            <element signature="e#1011#1012#0" expanded="true" />
-            <element signature="e#1056#1057#0" expanded="true" />
-            <element signature="e#1086#1087#0" expanded="true" />
-            <element signature="e#1131#1132#0" expanded="true" />
-            <element signature="e#1161#1162#0" expanded="true" />
-            <element signature="e#1267#1268#0" expanded="true" />
-            <element signature="e#1310#1311#0" expanded="true" />
-            <element signature="e#1368#1369#0" expanded="true" />
-            <element signature="e#1411#1412#0" expanded="true" />
-            <element signature="e#1469#1470#0" expanded="true" />
-            <element signature="e#1512#1513#0" expanded="true" />
+            <element signature="e#2617#2618#0" expanded="true" />
+            <element signature="e#2656#2657#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Netflix.com/src/main/java/HomePage/HomePage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="479">
+          <caret line="162" column="38" selection-start-line="162" selection-start-column="38" selection-end-line="162" selection-end-column="38" />
+          <folding>
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>

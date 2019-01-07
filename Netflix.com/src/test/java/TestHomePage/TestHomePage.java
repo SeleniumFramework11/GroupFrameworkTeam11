@@ -19,17 +19,13 @@ public class TestHomePage extends HomePage {
             clickSignInButton();
     }
     @Test (priority=2)
-    public void testJoinLink(){
-        clickJoinButton();
-    }
+    public void testJoinLink(){ clickJoinButton(); }
     @Test (priority=3)
     public void testPriceButton(){
         clickPriceLink();
     }
     @Test (priority=4)
-    public void testDevicesButton(){
-        clickDevicesLink();
-    }
+    public void testDevicesButton(){ clickDevicesLink(); }//Re-Test
     @Test (priority=5)
     public void testGoToFAQLink(){
         clickFAQLink();
@@ -39,7 +35,7 @@ public class TestHomePage extends HomePage {
         clickAccountLink();
     }
     @Test (priority=7)
-    public void testGoToInvestorRelations(){
+    public void testGoToInvestorRelationsLink(){
         clickInvestorRelationsLink();
     }
     @Test (priority=8)
@@ -57,5 +53,44 @@ public class TestHomePage extends HomePage {
     @Test (priority=11)
     public void testWaysToWatchLink(){
         clickWaysToWatch();
+    }
+    @Test (priority=12)
+    public void testSpeedTestLink(){ clickSpeedtest(); }
+    @Test (priority=13)
+    public void testNetflixOriginalsLink(){ clickNetflixOriginals(); }
+    @Test (priority=14)
+    public void testHelpCenterLink(){
+        clickHelpCenter();
+    }
+    @Test (priority=15)
+    public void testMediaCenterLink(){
+        clickMediaCenter();
+    }
+    @Test (priority=16)
+    public void testBuyGiftCardsLink(){
+        clickBuyGiftCards();
+    }
+    @Test (priority=17)
+    public void testTermsOfUseLink(){
+        clickTermsOfUse();
+    }
+    @Test (priority=18)
+    public void testCookiePreferencesLink(){
+        clickCookiePreferences();
+    }
+    @Test (priority=19)
+    public void testContactUsLink(){
+        clickContactUs();
+    }
+    @Test (priority=20)
+    public void testLegalNoticesLink(){
+        clickLegalNoticesLink();
+    }
+    @Test (priority=21)
+    public void testJobsLink(){
+        clickJobs();
+    }
+    @Test (priority =22)
+    public void testLanguageSelector(){ clickLanguageSelector();
     }
 }
