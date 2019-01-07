@@ -52,7 +52,7 @@ public class WelcomePage {
         builder = new Actions(driver);
         wait = new WebDriverWait(driver, 10);
         driver.manage().timeouts().implicitlyWait(10, TimeUnit.SECONDS);
-        driver.get("https://www.walmart.com/");
+       // driver.get("https://www.walmart.com/");
         driver.get("https://www.ebay.com/");
         driver.manage().window().fullscreen();
 
