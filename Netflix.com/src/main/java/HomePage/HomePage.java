@@ -21,7 +21,7 @@ public class HomePage extends BaseUtil {
         }.getClass().getEnclosingMethod().getName()));
         joinButton.click();
     }
-    @FindBy(xpath = "//g[@id='three-devices-condensed']")
+    @FindBy(xpath = "//span[@class='text-full']")
     public static WebElement devicesButton;
     public void clickDevicesLink() {
         TestLogger.log(getClass().getSimpleName() + ": " + convertToString(new Object() {
@@ -86,7 +86,7 @@ public class HomePage extends BaseUtil {
     }
     @FindBy (xpath = "//span[.='Speed Test']")
     public static WebElement speedTest;
-    public void clickSpeedtest() {
+    public void clickSpeedTest() {
         TestLogger.log(getClass().getSimpleName() + ": " + convertToString(new Object() {
         }.getClass().getEnclosingMethod().getName()));
         speedTest.click();

@@ -25,7 +25,7 @@ public class TestHomePage extends HomePage {
         clickPriceLink();
     }
     @Test (priority=4)
-    public void testDevicesButton(){ clickDevicesLink(); }//Re-Test
+    public void testDevicesButton(){ clickDevicesLink(); }
     @Test (priority=5)
     public void testGoToFAQLink(){
         clickFAQLink();
@@ -55,7 +55,7 @@ public class TestHomePage extends HomePage {
         clickWaysToWatch();
     }
     @Test (priority=12)
-    public void testSpeedTestLink(){ clickSpeedtest(); }
+    public void testSpeedTestLink(){ clickSpeedTest(); }
     @Test (priority=13)
     public void testNetflixOriginalsLink(){ clickNetflixOriginals(); }
     @Test (priority=14)
