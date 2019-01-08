@@ -2,12 +2,31 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d25c90c5-e730-4ecb-9c3b-2915e19bb69a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/HealthCareGlobal/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HealthCareGlobal/src/main/java/homepage/WelcomePage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HealthCareGlobal/src/test/java/testhomepage/TestWelcomePage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Generic/src/main/java/base/BaseUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/Generic/src/main/java/base/BaseUtil.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Walmart/Extent-Report/ExtentReport.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Walmart/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Walmart/src/main/java/homepage/WelcomePage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Walmart/src/test/java/testingpage/Account.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Walmart/src/test/java/testingpage/TestMainPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Walmart/target/classes/homepage/WelcomePage$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Walmart/target/classes/homepage/WelcomePage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Walmart/target/test-classes/testingpage/Account.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Walmart/target/test-classes/testingpage/TestMainPage$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Walmart/target/test-classes/testingpage/TestMainPage$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Walmart/target/test-classes/testingpage/TestMainPage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/Generic/target/" />
     <ignored path="$PROJECT_DIR$/Walmart/target/" />
+    <ignored path="$PROJECT_DIR$/HealthCareGlobal/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,45 +45,15 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Walmart/src/main/java/homepage/WelcomePage.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="51">
-              <caret line="3" column="38" selection-start-line="3" selection-start-column="38" selection-end-line="3" selection-end-column="38" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Walmart/src/test/java/testingpage/TestMainPage.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="304">
-              <caret line="22" column="37" selection-start-line="22" selection-start-column="37" selection-end-line="22" selection-end-column="37" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Generic/src/main/resources/testrunner.xml">
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Walmart/src/test/java/testingpage/Account.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="20" selection-start-line="2" selection-start-column="20" selection-end-line="2" selection-end-column="20" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Generic/src/main/java/base/BaseUtil.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1553">
-              <caret line="129" column="50" selection-start-line="129" selection-start-column="50" selection-end-line="129" selection-end-column="50" />
+            <state relative-caret-position="278">
+              <caret line="52" column="46" lean-forward="true" selection-start-line="52" selection-start-column="46" selection-end-line="52" selection-end-column="46" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -106,10 +95,30 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Walmart/pom.xml">
+        <entry file="file://$PROJECT_DIR$/HealthCareGlobal/pom.xml">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/HealthCareGlobal/src/main/java/homepage/WelcomePage.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="388">
-              <caret line="32" column="4" selection-start-line="32" selection-start-column="4" selection-end-line="32" selection-end-column="4" />
+            <state relative-caret-position="355">
+              <caret line="86" column="20" selection-start-line="86" selection-start-column="20" selection-end-line="86" selection-end-column="20" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/HealthCareGlobal/src/test/java/testhomepage/TestWelcomePage.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="162">
+              <caret line="64" column="34" lean-forward="true" selection-start-line="64" selection-start-column="34" selection-end-line="64" selection-end-column="34" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -137,9 +146,12 @@
         <option value="$PROJECT_DIR$/Walmart/pom.xml" />
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/Generic/src/main/java/base/CommonAPI.java" />
-        <option value="$PROJECT_DIR$/Generic/src/main/java/base/BaseUtil.java" />
         <option value="$PROJECT_DIR$/Walmart/src/test/java/testingpage/TestMainPage.java" />
         <option value="$PROJECT_DIR$/Walmart/src/main/java/homepage/WelcomePage.java" />
+        <option value="$PROJECT_DIR$/HealthCareGlobal/src/main/java/homepage/MainPage.java" />
+        <option value="$PROJECT_DIR$/Generic/src/main/java/base/BaseUtil.java" />
+        <option value="$PROJECT_DIR$/HealthCareGlobal/src/main/java/homepage/WelcomePage.java" />
+        <option value="$PROJECT_DIR$/HealthCareGlobal/src/test/java/testhomepage/TestWelcomePage.java" />
       </list>
     </option>
   </component>
@@ -257,25 +269,25 @@
             <path>
               <item name="GroupFrameworkTeam11" type="b2602c69:ProjectViewProjectNode" />
               <item name="GroupFrameworkTeam11" type="462c0819:PsiDirectoryNode" />
-              <item name="Walmart" type="462c0819:PsiDirectoryNode" />
+              <item name="HealthCareGlobal" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="GroupFrameworkTeam11" type="b2602c69:ProjectViewProjectNode" />
               <item name="GroupFrameworkTeam11" type="462c0819:PsiDirectoryNode" />
-              <item name="Walmart" type="462c0819:PsiDirectoryNode" />
+              <item name="HealthCareGlobal" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="GroupFrameworkTeam11" type="b2602c69:ProjectViewProjectNode" />
               <item name="GroupFrameworkTeam11" type="462c0819:PsiDirectoryNode" />
-              <item name="Walmart" type="462c0819:PsiDirectoryNode" />
+              <item name="HealthCareGlobal" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="GroupFrameworkTeam11" type="b2602c69:ProjectViewProjectNode" />
               <item name="GroupFrameworkTeam11" type="462c0819:PsiDirectoryNode" />
-              <item name="Walmart" type="462c0819:PsiDirectoryNode" />
+              <item name="HealthCareGlobal" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
@@ -283,7 +295,7 @@
             <path>
               <item name="GroupFrameworkTeam11" type="b2602c69:ProjectViewProjectNode" />
               <item name="GroupFrameworkTeam11" type="462c0819:PsiDirectoryNode" />
-              <item name="Walmart" type="462c0819:PsiDirectoryNode" />
+              <item name="HealthCareGlobal" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
@@ -292,14 +304,14 @@
             <path>
               <item name="GroupFrameworkTeam11" type="b2602c69:ProjectViewProjectNode" />
               <item name="GroupFrameworkTeam11" type="462c0819:PsiDirectoryNode" />
-              <item name="Walmart" type="462c0819:PsiDirectoryNode" />
+              <item name="HealthCareGlobal" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="GroupFrameworkTeam11" type="b2602c69:ProjectViewProjectNode" />
               <item name="GroupFrameworkTeam11" type="462c0819:PsiDirectoryNode" />
-              <item name="Walmart" type="462c0819:PsiDirectoryNode" />
+              <item name="HealthCareGlobal" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
@@ -307,11 +319,11 @@
             <path>
               <item name="GroupFrameworkTeam11" type="b2602c69:ProjectViewProjectNode" />
               <item name="GroupFrameworkTeam11" type="462c0819:PsiDirectoryNode" />
-              <item name="Walmart" type="462c0819:PsiDirectoryNode" />
+              <item name="HealthCareGlobal" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="testingpage" type="462c0819:PsiDirectoryNode" />
+              <item name="testhomepage" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -322,8 +334,11 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1546893418893" />
-    <property name="settings.editor.selected.configurable" value="preferences.sourceCode.Java" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1546980684006" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
@@ -346,34 +361,90 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="TestNG.TestMainPage.testgoForGrocery">
-    <configuration name="TestMainPage" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="Walmart" />
+  <component name="RunManager" selected="TestNG.TestWelcomePage.testmedicareMenu">
+    <configuration name="TestWelcomePage.testemployerMenu" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="HealthCareGlobal" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="testingpage.*" />
+          <option name="PATTERN" value="testhomepage.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="testingpage" />
-      <option name="MAIN_CLASS_NAME" value="testingpage.TestMainPage" />
+      <option name="PACKAGE_NAME" value="testhomepage" />
+      <option name="MAIN_CLASS_NAME" value="testhomepage.TestWelcomePage" />
+      <option name="METHOD_NAME" value="testemployerMenu" />
+      <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestMainPage.testgoForGrocery" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="Walmart" />
+    <configuration name="TestWelcomePage.testhomeButton" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="HealthCareGlobal" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="testingpage.*" />
+          <option name="PATTERN" value="testhomepage.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="testingpage" />
-      <option name="MAIN_CLASS_NAME" value="testingpage.TestMainPage" />
-      <option name="METHOD_NAME" value="testgoForGrocery" />
+      <option name="PACKAGE_NAME" value="testhomepage" />
+      <option name="MAIN_CLASS_NAME" value="testhomepage.TestWelcomePage" />
+      <option name="METHOD_NAME" value="testhomeButton" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestWelcomePage.testindividualandFamilies" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="HealthCareGlobal" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="testhomepage.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="testhomepage" />
+      <option name="MAIN_CLASS_NAME" value="testhomepage.TestWelcomePage" />
+      <option name="METHOD_NAME" value="testindividualandFamilies" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestWelcomePage.testkeySearch" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="HealthCareGlobal" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="testhomepage.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="testhomepage" />
+      <option name="MAIN_CLASS_NAME" value="testhomepage.TestWelcomePage" />
+      <option name="METHOD_NAME" value="testkeySearch" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestWelcomePage.testmedicareMenu" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="HealthCareGlobal" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="testhomepage.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="testhomepage" />
+      <option name="MAIN_CLASS_NAME" value="testhomepage.TestWelcomePage" />
+      <option name="METHOD_NAME" value="testmedicareMenu" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -383,8 +454,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="TestNG.TestMainPage.testgoForGrocery" />
-        <item itemvalue="TestNG.TestMainPage" />
+        <item itemvalue="TestNG.TestWelcomePage.testmedicareMenu" />
+        <item itemvalue="TestNG.TestWelcomePage.testemployerMenu" />
+        <item itemvalue="TestNG.TestWelcomePage.testindividualandFamilies" />
+        <item itemvalue="TestNG.TestWelcomePage.testhomeButton" />
+        <item itemvalue="TestNG.TestWelcomePage.testkeySearch" />
       </list>
     </recent_temporary>
   </component>
@@ -402,17 +476,41 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="TestMainPage_testgoForGrocery - 2019.01.05 at 20h 37m 44s.xml">
-      <configuration name="TestMainPage.testgoForGrocery" configurationId="TestNG" />
+    <history-entry file="TestWelcomePage_testkeySearch - 2019.01.07 at 20h 00m 21s.xml">
+      <configuration name="TestWelcomePage.testkeySearch" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="TestMainPage_testgoForGrocery - 2019.01.05 at 20h 46m 17s.xml">
-      <configuration name="TestMainPage.testgoForGrocery" configurationId="TestNG" />
+    <history-entry file="TestWelcomePage_testkeySearch - 2019.01.07 at 20h 02m 38s.xml">
+      <configuration name="TestWelcomePage.testkeySearch" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="TestWelcomePage_testkeySearch - 2019.01.07 at 20h 06m 31s.xml">
+      <configuration name="TestWelcomePage.testkeySearch" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="TestWelcomePage_testkeySearch - 2019.01.07 at 20h 08m 49s.xml">
+      <configuration name="TestWelcomePage.testkeySearch" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="TestWelcomePage_testkeySearch - 2019.01.07 at 20h 09m 56s.xml">
+      <configuration name="TestWelcomePage.testkeySearch" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="TestWelcomePage_testhomeButton - 2019.01.08 at 10h 51m 22s.xml">
+      <configuration name="TestWelcomePage.testhomeButton" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="TestWelcomePage_testhomeButton - 2019.01.08 at 10h 53m 26s.xml">
+      <configuration name="TestWelcomePage.testhomeButton" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="TestWelcomePage_testindividualandFamilies - 2019.01.08 at 11h 29m 09s.xml">
+      <configuration name="TestWelcomePage.testindividualandFamilies" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="TestWelcomePage_testemployerMenu - 2019.01.08 at 11h 38m 55s.xml">
+      <configuration name="TestWelcomePage.testemployerMenu" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="TestWelcomePage_testmedicareMenu - 2019.01.08 at 11h 42m 43s.xml">
+      <configuration name="TestWelcomePage.testmedicareMenu" configurationId="TestNG" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
-    <editor active="true" />
     <layout>
+      <window_info anchor="top" id="Maven" order="0" visible="true" weight="0.0" />
       <window_info id="Image Layers" />
       <window_info id="Designer" />
       <window_info id="UI Designer" />
@@ -423,7 +521,7 @@
       <window_info anchor="bottom" id="Messages" weight="0.3286119" />
       <window_info anchor="bottom" id="Version Control" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info active="true" anchor="bottom" id="Terminal" visible="true" weight="0.3286119" />
+      <window_info active="true" anchor="bottom" id="Terminal" visible="true" weight="0.3396779" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.3286119" />
@@ -431,16 +529,19 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Palette" />
-      <window_info anchor="right" id="Theme Preview" />
-      <window_info anchor="right" id="Maven" weight="0.3295302" />
-      <window_info anchor="right" id="Capture Analysis" />
-      <window_info anchor="right" id="Palette&#9;" />
-      <window_info anchor="right" id="Mongo Explorer" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="0" />
+      <window_info anchor="right" id="Theme Preview" order="1" />
+      <window_info anchor="right" id="Capture Analysis" order="2" />
+      <window_info anchor="right" id="Palette&#9;" order="3" />
+      <window_info anchor="right" id="Mongo Explorer" order="4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="5" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="6" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="7" weight="0.24966443" />
     </layout>
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/Generic/src/main/java/reporting/ApplicationLog.java">
@@ -454,16 +555,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
           <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Generic/src/main/java/reporting/ExtentTestManager.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="536">
-          <caret line="35" column="1" selection-start-line="35" selection-start-column="1" selection-end-line="35" selection-end-column="1" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -484,13 +575,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Generic/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="304">
-          <caret line="40" column="50" selection-start-line="40" selection-start-column="50" selection-end-line="40" selection-end-column="50" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Generic/src/main/java/reporting/TestLogger.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="204">
@@ -501,43 +585,19 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Walmart/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="388">
-          <caret line="32" column="4" selection-start-line="32" selection-start-column="4" selection-end-line="32" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Generic/src/main/java/base/BaseUtil.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1553">
-          <caret line="129" column="50" selection-start-line="129" selection-start-column="50" selection-end-line="129" selection-end-column="50" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Generic/src/main/resources/testrunner.xml">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/Walmart/src/test/java/testingpage/Account.java">
+    <entry file="file://$PROJECT_DIR$/UnitedHealthCare/src/test/java/testingpage/Account.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
           <caret line="2" column="20" selection-start-line="2" selection-start-column="20" selection-end-line="2" selection-end-column="20" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Walmart/src/main/java/homepage/WelcomePage.java">
+    <entry file="file://$PROJECT_DIR$/UnitedHealthCare/src/test/java/testingpage/TestMainPage.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="38" selection-start-line="3" selection-start-column="38" selection-end-line="3" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Walmart/src/test/java/testingpage/TestMainPage.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="304">
+        <state relative-caret-position="332">
           <caret line="22" column="37" selection-start-line="22" selection-start-column="37" selection-end-line="22" selection-end-column="37" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -545,5 +605,166 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/UnitedHealthCare/src/main/java/homepage/WelcomePage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="16" column="29" selection-start-line="16" selection-start-column="29" selection-end-line="16" selection-end-column="29" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/UnitedHealthCare/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="10" selection-start-line="14" selection-start-column="10" selection-end-line="14" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Generic/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="40" column="50" selection-start-line="40" selection-start-column="50" selection-end-line="40" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HealthCareGlobal/src/main/java/homepage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="21" selection-start-column="21" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HealthCareGlobal/pom.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Generic/src/main/java/reporting/ExtentTestManager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="536">
+          <caret line="35" column="1" selection-start-line="35" selection-start-column="1" selection-end-line="35" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Generic/src/main/java/base/BaseUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="278">
+          <caret line="52" column="46" lean-forward="true" selection-start-line="52" selection-start-column="46" selection-end-line="52" selection-end-column="46" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HealthCareGlobal/src/main/java/homepage/WelcomePage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="355">
+          <caret line="86" column="20" selection-start-line="86" selection-start-column="20" selection-end-line="86" selection-end-column="20" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HealthCareGlobal/src/test/java/testhomepage/TestWelcomePage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="64" column="34" lean-forward="true" selection-start-line="64" selection-start-column="34" selection-end-line="64" selection-end-column="34" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>11</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>HealthCareGlobal</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: com.beust:jcommander:1.72</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
   </component>
 </project>
