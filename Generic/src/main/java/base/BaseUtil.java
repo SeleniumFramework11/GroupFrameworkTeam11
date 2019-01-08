@@ -49,7 +49,7 @@ public class BaseUtil {
         builder = new Actions(driver);
         wait = new WebDriverWait(driver, 10);
         driver.manage().timeouts().implicitlyWait(10, TimeUnit.SECONDS);
-        driver.get("https://www.walmart.com/");
+        driver.get("https://www.uhc.com/");
         driver.manage().window().fullscreen();
 
 

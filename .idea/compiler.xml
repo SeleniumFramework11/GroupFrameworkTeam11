@@ -7,8 +7,11 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="Generic" />
-        <module name="Walmart" />
+        <module name="HealthCareGlobal" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="UnitedHealthCare" target="1.8" />
+    </bytecodeTargetLevel>
   </component>
 </project>
