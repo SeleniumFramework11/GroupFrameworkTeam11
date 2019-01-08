@@ -1,0 +1,7 @@
+-------------------------------------------------------------------------------
+Test set: testingpage.TestMainPage
+-------------------------------------------------------------------------------
+Tests run: 6, Failures: 1, Errors: 0, Skipped: 5, Time elapsed: 6.644 s <<< FAILURE! - in testingpage.TestMainPage
+setup(testingpage.TestMainPage)  Time elapsed: 6.205 s  <<< FAILURE!
+java.lang.IllegalStateException: The driver executable does not exist: C:\Users\orfat\Desktop\GroupFrameworkTeam11\Generic\Driver\chromedriver.exe
+
