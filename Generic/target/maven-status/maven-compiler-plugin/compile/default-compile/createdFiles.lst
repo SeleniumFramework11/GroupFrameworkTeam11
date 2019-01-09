@@ -1,5 +1,5 @@
 reporting/ApplicationLog.class
 reporting/ExtentTestManager.class
 reporting/TestLogger.class
-base/CommonAPI.class
+base/WelcomePage.class
 reporting/ExtentManager.class

@@ -19,11 +19,6 @@ public class MainPage extends WelcomePage {
     @FindBy (linkText = "Deals")
     public static WebElement findDeals;
 
-    @FindBy (linkText = "Deals prodact")
-    public static WebElement findDealsprodact;
-
-    @FindBy (linkText = "Book")
-    public static WebElement readBook;
 
 
 
@@ -56,4 +51,3 @@ public class MainPage extends WelcomePage {
 
 
 }
-
