@@ -10,5 +10,8 @@
         <module name="Walmart" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="eBay" target="1.10" />
+    </bytecodeTargetLevel>
   </component>
 </project>

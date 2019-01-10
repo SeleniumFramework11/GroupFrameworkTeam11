@@ -15,14 +15,14 @@ public class TestMainPage extends WelcomePage {
         TestLogger.log(getClass().getSimpleName() + ": " + convertToString(new Object() {
         }.getClass().getEnclosingMethod().getName()));
         mainPage = PageFactory.initElements(driver, WelcomePage.class);
-
+        setUrl("http://www.walmart.com");
     }
+
     @Test
     public void testgoForGrocery() {
         TestLogger.log(getClass().getSimpleName() + ": " + convertToString(new Object() {
         }.getClass().getEnclosingMethod().getName()));
         mainPage.checkgoForGrocery();
-
     }
 
 

@@ -15,10 +15,7 @@ import org.openqa.selenium.support.ui.ExpectedConditions;
 import org.openqa.selenium.support.ui.WebDriverWait;
 import org.testng.ITestContext;
 import org.testng.ITestResult;
-import org.testng.annotations.AfterMethod;
-import org.testng.annotations.AfterSuite;
-import org.testng.annotations.BeforeMethod;
-import org.testng.annotations.BeforeSuite;
+import org.testng.annotations.*;
 import reporting.ExtentManager;
 import reporting.ExtentTestManager;
 
@@ -39,22 +36,26 @@ public class BaseUtil {
     public static WebDriver driver = null;
     public static Actions builder = null;
     public static WebDriverWait wait;
+    public String URL = null;
 
     @BeforeMethod
     public void setup() throws MalformedURLException {
-        System.setProperty("webdriver.chrome.driver", "C:\\Users\\orfat\\Desktop\\GroupFrameworkTeam11\\Generic\\Driver\\chromedriver.exe");
+        System.setProperty("webdriver.chrome.driver", "...Generic\\Driver\\chromedriver.exe");
         //setUpBrowserStack();
         driver = new ChromeDriver();
         driver.manage().deleteAllCookies();
         builder = new Actions(driver);
         wait = new WebDriverWait(driver, 10);
         driver.manage().timeouts().implicitlyWait(10, TimeUnit.SECONDS);
-        driver.get("https://www.walmart.com/");
+       // driver.get("https://www.walmart.com/");
         driver.manage().window().fullscreen();
 
-
-
     }
+    @Parameters
+    public void setUrl(String URL){
+        this.URL = URL;
+        driver.get(URL);}
+
     public static ExtentReports extent;
     @BeforeSuite
     public void extentSetup(ITestContext context) { extent = ExtentManager.getInstance();}
@@ -121,7 +122,7 @@ public class BaseUtil {
         cap.setCapability("browser_version","68.0");
         cap.setCapability("os", "OS X"); //put your operating system
         cap.setCapability("os_version", "Sierra"); //put your version
-        String browserStackUrl = "https://afiafarjana1:9Z5U2U9zmF6Uq6QUr9pi@hub-cloud.browserstack.com/wd/hub";
+        String browserStackUrl = "www.walmart.com";
         URL serverUrl = new URL(browserStackUrl);
         driver = new RemoteWebDriver(serverUrl,cap);
     }
